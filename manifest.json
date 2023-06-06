@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Fresh Finds",
+    "description": "A dynamic lead tracker using HTML, CSS, and JavaScript that allows you to save and delete data from localStorage.",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "/android-chrome-128x128.png"
+    },
+    "permissions": [
+        "tabs"
+    ],
+    "icons": { "128": "/android-chrome-128x128.png" }
+}
