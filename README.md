@@ -5,6 +5,9 @@ Fresh Finds (Leads Tracker)
 - It was initially created on [scrimba](https://scrimba.com/learn/frontend).
 
 
+![Finds](https://github.com/JavascriptDon/Fresh-Finds/assets/101202952/101046e3-83dd-4610-a9b7-d84173c7f684)
+
+
 ## 👇 Prerequisites
 Vite requires Node.js version 14.18+, 16+. 
 
