@@ -1,4 +1,4 @@
-Social Media Blocks (1.0.3)
+Fresh Finds (Leads Tracker)
 === 
 
 - A dynamic lead tracker using HTML, CSS, and JavaScript that allows you to save and delete data from localStorage.
