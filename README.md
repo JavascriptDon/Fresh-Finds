@@ -1,7 +1,7 @@
 Social Media Blocks (1.0.3)
 === 
 
-- This is a Chrome Extension which  etc..
+- A dynamic lead tracker using HTML, CSS, and JavaScript that allows you to save and delete data from localStorage.
 - It was initially created on [scrimba](https://scrimba.com/learn/frontend).
 
 
